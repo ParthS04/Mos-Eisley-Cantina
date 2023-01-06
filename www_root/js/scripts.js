@@ -1,0 +1,1 @@
+window.alert("Hello User!!\nWelcome To Mos Eisley Cantina");
